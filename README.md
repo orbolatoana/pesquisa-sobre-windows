@@ -1,6 +1,9 @@
 # Explorando o Windows: Resultados e Análises da Pesquisa
 
 O Windows é um sistema operacional da Microsoft, que oferece uma interface gráfica e recursos como multitarefa e conectividade à internet, sendo amplamente utilizado em computadores e servidores. Dentre os diversos sistemas disponíveis, o Windows se destaca como um dos mais utilizados no mundo, com uma longa história de inovações e melhorias. Este documento busca apresentar a evolução do Windows, suas versões mais marcantes, sua arquitetura e aspectos interessantes que contribuem para seu sucesso e popularidade.
+
+![imagem ''inicial'' do windows 10s](https://s2-techtudo.glbimg.com/3dtjJ6qCYpDoSwzpKP47e3XhrcA=/0x0:695x391/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/M/b/H0vSriQWuVyOcaTiwt2g/windows-10-s-e-restrito-a-apps-da-loja-oficial.png)
+
 ___
 
 ##### Evolução dos Sistemas Operacionais ao Longo das Décadas
@@ -49,7 +52,7 @@ O __Windows 7__ (2009) foi uma das versões mais bem-sucedidas da Microsoft, com
 
 > Anos 2020 - Inteligência Artificial e Sistemas Operacionais para IoT
 
-Lançado em 2021, o __Windows 11__ trouxe uma nova _interface gráfica_ mais moderna e a integração com as tecnologias mais recentes, como _inteligência artificial_, _maior segurança_ e suporte melhorado para _dispositivos móveis_. O crescimento da **Internet das Coisas (IoT)** resultou em sistemas operacionais especializados, como __Windows IoT__, _Google Fuchsia_ e _FreeRTOS_, projetados para dispositivos conectados. O papel da IA nos sistemas operacionais se tornou cada vez mais relevante, com assistentes virtuais como:
+Lançado em 2021, o __Windows 11__ trouxe uma nova _interface gráfica_ mais moderna e a integração com as tecnologias mais recentes, como _inteligência artificial_, _maior segurança_ e suporte melhorado para _dispositivos móveis_. O crescimento da Internet das Coisas (IoT) resultou em sistemas operacionais especializados, como __Windows IoT__, _Google Fuchsia_ e _FreeRTOS_, projetados para dispositivos conectados. O papel da IA nos sistemas operacionais se tornou cada vez mais relevante, com assistentes virtuais como:
 - Cortana;
 - Siri;
 - Google Assistante;
@@ -86,7 +89,7 @@ Principais inovações: Novo design com cantos arredondados e centro de notifica
 > Exemplo de imagem do windows XP
 
 
-![windows xp](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
+![várias janelas abertas do windows wp](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
 
 --- 
 
@@ -110,7 +113,7 @@ Principais inovações: Novo design com cantos arredondados e centro de notifica
 
 > _Interface Gráfica do Usuário (GUI):_ 
    - Permite interação visual via janelas, ícones e menus.
-   - Exemplo: Windows Desktop, onde o usuário interage com o sistema.
+   -  Windows Desktop, onde o usuário interage com o sistema.
 
 > _Gerenciador de Dispositivos:_ 
    - Controla e monitora dispositivos de hardware.
@@ -130,11 +133,10 @@ Principais inovações: Novo design com cantos arredondados e centro de notifica
 
 > _Segurança e Controle de Acesso:_ 
    - Gerencia autenticação e permissões de acesso.
-   - Exemplo: Controle de Conta de Usuário (UAC).
-
+     
 > _Windows Services:_ 
    - Processos em segundo plano que executam funções essenciais.
-   - Exemplo: Atualizações do sistema, serviços de rede e impressoras.
+     
 
 ---
 
@@ -145,44 +147,38 @@ dir
 ```
 
 Função: Exibe a lista de arquivos e pastas em um diretório.
-Exemplo de uso: dir C:\ — Mostra todos os arquivos e pastas na unidade C.
 
 ```
 cd
 ```
 
 Função: Altera o diretório de trabalho atual no prompt de comando.
-Exemplo de uso: cd C:\Users\Nome — Muda para a pasta "Nome" dentro de "C:\Users".
 
 ```
 copy
 ```
 
 Função: Copia arquivos de um local para outro.
-Exemplo de uso: copy arquivo.txt D:\Backup\ — Copia o arquivo "arquivo.txt" para a pasta "Backup" no disco D.
+
 
 ```
 del
 ```
 
 Função: Exclui arquivos do diretório atual.
-Exemplo de uso: del arquivo.txt — Exclui o arquivo "arquivo.txt" no diretório atual.
 
 ```
 ping
 ```
 
 Função: Verifica a conectividade de rede com outro dispositivo ou servidor.
-Exemplo de uso: ping www.google.com — Envia pacotes para o Google para testar a conexão de rede.
-
-Esses comandos são úteis para navegação, gerenciamento de arquivos.
 
 ---
 
  ##### Curiosidades sobre o Windows
 
 
-- _Origem do nome "Windows"_
+- _Origem do nome windows_
   
 O nome "Windows" vem da ideia de usar "janelas" (windows) para organizar e exibir informações na tela, o que era uma inovação em relação aos sistemas baseados em linha de comando.
 
@@ -205,6 +201,8 @@ Apesar de ser lançado em 2001, o Windows XP foi tão popular que a Microsoft co
 - _O famoso "som de inicialização" do Windows tem um nome_
 
 O som que você ouve ao iniciar um computador com Windows 95 e versões posteriores é chamado de "Microsoft Sound". Ele foi criado por Brian Eno, o famoso compositor de música ambiente.
+
+![imagem do criador do windows](https://files.sunoresearch.com.br/p/uploads/2018/09/bill-gates-3.jpg)
 
 
 
